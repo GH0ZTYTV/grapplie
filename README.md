@@ -1,2 +1,2 @@
-# grapplie
+# Grapplie
 A simple Grappling Hook plugin.
