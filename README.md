@@ -1,2 +1,2 @@
 # Grapplie
-A simple Grappling Hook plugin.
+A simple Grappling Hook plugin for Spigot.
